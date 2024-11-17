@@ -1,0 +1,10 @@
+Naiv On Array: 0.00302886962890625 segundos
+Naiv Loop Unrolling Two: 0.002544403076171875 segundos
+Naiv Loop Unrolling Four: 0.002000570297241211 segundos
+Winograd Original: 0.001996755599975586 segundos
+Winograd Scaled: 0.002610445022583008 segundos
+Strassen Naiv: 0.032460927963256836 segundos
+Strassen Winograd: 0.022174596786499023 segundos
+Sequential Block: 0.005779266357421875 segundos
+Parallel Block: 0.021681547164916992 segundos
+Enhanced Parallel Block: 1.586531162261963 segundos

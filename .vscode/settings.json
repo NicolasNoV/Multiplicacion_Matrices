@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.cppStandard": "gnu++23",
+    "files.associations": {
+        "filesystem": "cpp",
+        "iostream": "cpp"
+    }
+}
